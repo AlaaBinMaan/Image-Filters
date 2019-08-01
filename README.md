@@ -10,7 +10,7 @@
 <div style="display:block" ><img src="3.jpg" width="180">
 <br>
 
-#### The some modifications that I can applied is to make image 2D by make image in grayscale and we have many ways to applied via the green or red or blue channel and we can see the difference via the below figures .the first one for the original image, second one for blue, third one for green and the last one for red.
+#### The some modifications that I can applied is to make image 2D by make image in grayscale and we have many ways to applied via the green or red or blue channel and we can see the difference via the below figures .the first one for the original image, second one for red, third one for green and the last one for blue.
 
 <div style="display:block" ><img src="4.png" width="200">
 <img src="5.png" width="200"><img src="6.png" width="200"><img src="7.png" width="200"></div>
